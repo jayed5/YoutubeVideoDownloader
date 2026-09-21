@@ -18,7 +18,6 @@ Command-line downloaders are powerful but unfriendly: remembering flags, merging
 - Batch queue: paste one URL per line — each link becomes a row with its own checkbox, format, size, and status.
 - Live progress bar parsed from yt-dlp output, plus per-item Size and Status columns.
 - Quality presets: Best, 1080p, 720p, 480p, 360p.
-- Drag & drop links (or `.url`/text files) onto the window to fill the queue.
 - Checkbox selection with **Select all** — download everything or only picked items.
 - **Cancel** button stops the running download instantly.
 - Output folder picker with a sensible default (`Desktop\Videos`), auto-created if missing.
